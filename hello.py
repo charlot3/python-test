@@ -1,2 +1,4 @@
 print("hello py")
-print(12345)
+a = 123
+b = a + 14
+print(b)
